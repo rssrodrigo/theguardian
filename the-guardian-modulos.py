@@ -114,7 +114,7 @@ def main():
     print("### THE GUARDIAN ###")
     print("")
 
-    url = "https://content.guardianapis.com/search?api-key=781f8c4e-ce6d-4c05-a546-38c28353b9ce"
+    url = "https://content.guardianapis.com/search?api-key=4c7a42c5-c217-4ab1-854f-efc9697324f2"
 
     response = requests.get(url)
 
